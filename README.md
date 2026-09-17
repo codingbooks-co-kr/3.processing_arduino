@@ -1,5 +1,5 @@
 # **프로세싱 & 아두이노 연동**
-- 예제는 프로세싱 3.x를 기준으로 작성
+- 예제는 프로세싱 3.x, 아두이노 1.8.x를 기준으로 작성
 - 다운로드: Code → Download ZIP
 - 도서구매: https://codingbooks.co.kr
 - 무료강의: www.youtube.com/@codingbooks-co-kr
